@@ -1,0 +1,24 @@
+{
+  "name": "cn-id-card-validator",
+  "version": "0.1.0",
+  "description": "A simple validator for Chinese identity card validation ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "keywords": [
+    "china",
+    "js",
+    "node",
+    "validation",
+    "validator",
+    "identity",
+    "card",
+    "id"
+  ],
+  "author": "Daniel Qin <taurencoder@gmail.com>",
+  "license": "MIT"
+}
