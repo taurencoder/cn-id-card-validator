@@ -1,4 +1,4 @@
-##cn-identity-card-validator
+##cn-id-card-validator
 Js validation library for Chinese ID card validation(include 15 & 18 card length)
 
 ##usage
