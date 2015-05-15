@@ -20,5 +20,9 @@
     "id"
   ],
   "author": "Daniel Qin <taurencoder@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taurencoder/cn-id-card-validator.git"
+  },
   "license": "MIT"
 }
